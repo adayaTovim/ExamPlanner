@@ -1,0 +1,22 @@
+/* about.css */
+
+/* Apply styles to the <body> element */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+/* Style the <h1> element */
+h1 {
+    color: #333;
+    margin-top: 50px;
+}
+
+/* Style the <p> element */
+p {
+    color: #666;
+    margin-bottom: 30px;
+}
